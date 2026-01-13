@@ -6,4 +6,5 @@ Planetary science student interested in:
 
 - Terrestrial exoplanets
 - Atmospheric chemistry
+- Volatile cycling
 - Habitability
